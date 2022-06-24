@@ -1,0 +1,1 @@
+./objects/stm32f10x_gpio.o: STM32F10x_GPIO.c STM32F10x_GPIO.h stm32f10x.h
